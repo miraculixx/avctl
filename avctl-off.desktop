@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name[en_US]=mute micro and cam OFF
+Exec=/bin/bash -c "/usr/local/bin/avctl off"
+Icon=/usr/share/icons/breeze-dark/actions/16/im-user-offline.svg
+Icon[en_US]=/usr/share/icons/breeze-dark/actions/16/im-user-offline.svg
+Name=unmute
